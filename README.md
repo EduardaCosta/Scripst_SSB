@@ -16,7 +16,7 @@ Para o cenário B1 os ficheiros foram adaptados de acordo com o atributo de part
     ..._mpart2 - Particionamento por "Od_Year" e "S_Region"
     ..._mpart3 - Particionamento por "S_Region", "S_Nation" e "S_City"
 
-As scripts utilizadas no cenário B2 são variações das scripts utilizados para o cenário A, alterando-se apenas os nomes das tabelas, pelo que não estão aqui apresentados. Na dissertação foi utilizada a seguinte notação:
+As scripts utilizadas no cenário B2 são variações das scripts utilizados para o cenário A, alterando-se apenas os nomes das tabelas, pelo que nas pastas apenas se encontra um exemplo. Na dissertação foi utilizada a seguinte notação:
     ..._mbuckets - Bucketing por "Orderdate", "Suppkey", "Custkey" e "Partkey"
     ..._buckets1 - Bucketing por "Custkey"
     ..._buckets2 - Bucketing por "Orderkey"
@@ -24,7 +24,7 @@ As scripts utilizadas no cenário B2 são variações das scripts utilizados par
     ..._buckets4 - Bucketing por "Suppkey" (normalizada) e Bucketing por "
     ..._buckets41 - Bucketing por "P_Brand1" Sorted by "Od_Year"
   
-As scripts utilizadas no cenário B3 são variações das scripts utilizadas para o cenário B1, de acordo com a configuração de Particionamento pretendida, pelo que nao estão aqui apresentadas. Na dissertação foi utilizada a seguinte notação: 
+As scripts utilizadas no cenário B3 são variações das scripts utilizadas para o cenário B1, de acordo com a configuração de Particionamento pretendida, pelo que nas pastas apenas se encontra um exemplo. Na dissertação foi utilizada a seguinte notação: 
     ..._p_b2 - Particionamento por "Od_Year" e Bucketing por "Orderkey"
     ..._p2_b4 - Particionamento por "S_Region" e Bucketing por "Suppkey"
     ..._mpart2_b4 - Particionamento por "Od_Year" e "S_Region" e Bucketing por "Suppkey"

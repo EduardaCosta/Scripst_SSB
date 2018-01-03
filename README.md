@@ -1,4 +1,4 @@
-# Scripst_SSB
+# Scripts_SSB
 Scripts utilizadas para execução dos testes presentes na Dissertação. 
 
 As scripts para o cenário A correspondem aos ficheiros com o seguinte nome: 
